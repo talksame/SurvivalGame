@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f96f4753b67c1d45a0d075fa19efca6, type: 3}
+  m_Name: Meat_Burnt
+  m_EditorClassIdentifier: 
+  itemName: "\uC22F"
+  itemDesc: "\uACE0\uAE30\uAC00 \uC0C8\uAE4C\uB9E3\uAC8C \uD0C0\uBC84\uB9BC."
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: 3adf2b161c66e124399d1a95397db822, type: 3}
+  itemPrefab: {fileID: 1026711225658882, guid: 206c65ecef36ce648af5070f77bcf994, type: 2}
+  weaponType: 

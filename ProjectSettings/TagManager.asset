@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Rock
+  - Twig
+  - Grass
+  - Tree
+  - Item
+  - WeakAnimal
+  - StrongAnimal
+  - Fire
+  - Structure
+  - Computer
+  - Trap
+  - ArchemyTable
   layers:
   - Default
   - TransparentFX
@@ -13,15 +25,15 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Weapon
+  - Item
+  - Player
+  - NPC
+  - Fire
+  - Terrain
+  - Building
+  - Computer
   - 
   - 
   - 
