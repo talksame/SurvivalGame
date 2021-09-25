@@ -50,13 +50,13 @@ public class ActionController : MonoBehaviour {
     {
         if (Input.GetKeyDown(KeyCode.E))
         {
-            CheckAction();
-            CanPickUp();
-            CanMeat();
-            CanDropFire();
-            CanComputerPowerOn();
-            CanArchemyTableOpen();
-            CanReInstallTrap();
+            CheckAction(); // 클릭액션 정의
+            CanPickUp(); // 줍기 액션 정의
+            CanMeat(); // 고기 굽기 정의
+            CanDropFire(); // 총 발사 정의
+            CanComputerPowerOn(); //우주선 컴퓨터 키기
+            CanArchemyTableOpen(); // 연금술테이블 켜기
+            CanReInstallTrap(); //함정 재설치 정의
         }
     }
 
